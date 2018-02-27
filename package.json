@@ -1,0 +1,26 @@
+{
+  "name": "a-brief-fantasy",
+  "version": "1.0.0",
+  "description": "A brief fantasy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "mkdir -p libs",
+    "postinstall": "gulp download"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delphian/a-brief-fantasy.git"
+  },
+  "author": "Bryan Hazelbaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delphian/a-brief-fantasy/issues"
+  },
+  "homepage": "https://github.com/delphian/a-brief-fantasy#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-download": "0.0.1"
+  }
+}
