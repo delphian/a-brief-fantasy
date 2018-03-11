@@ -1,7 +1,8 @@
 # A Brief Fantasy
+
 A small RPG created with the [melonJS.js](http://melonjs.org),  javascript gaming engine and the [Tiled](http://mapeditor.org) map creator.
 
-## Installation
+## Installation (Ubuntu 16.04)
 
 This repository assumes [git-lfs](https://github.com/git-lfs/git-lfs) is installed:
  - `curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash`
@@ -16,5 +17,6 @@ Ubuntu Bash 16.04:
  - `cd a-brief-fantasy`
  - `npm install`
  - `gulp serve`
- - Open a browser to http://localhost:8080
+
+Open a browser to http://localhost:8080
 
