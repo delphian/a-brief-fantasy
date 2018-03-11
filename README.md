@@ -1,8 +1,13 @@
 # A Brief Fantasy
-A small RPG created with the (melonJS.js)[http://melonjs.org],  javascript gaming engine and the (Tiled)[http://mapeditor.org] map creator.
+A small RPG created with the [melonJS.js](http://melonjs.org),  javascript gaming engine and the [Tiled](http://mapeditor.org) map creator.
 
 ## Installation
-Ubuntu Bash:
+
+This repository assumes [git-lfs](https://github.com/git-lfs/git-lfs) is installed:
+ - `curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash`
+ - `sudo apt-get isntall git-lfs`
+
+Ubuntu Bash 16.04:
  - `sudo apt-get update`
  - `sudo apt-get install nodejs`
  - `sudo apt-get install npm`
