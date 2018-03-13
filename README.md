@@ -6,7 +6,7 @@ A small RPG created with the [melonJS.js](http://melonjs.org),  javascript gamin
 
 This repository assumes [git-lfs](https://github.com/git-lfs/git-lfs) is installed:
  - `curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash`
- - `sudo apt-get isntall git-lfs`
+ - `sudo apt-get install git-lfs`
 
 Ubuntu Bash 16.04:
  - `sudo apt-get update`
